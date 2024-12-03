@@ -1,0 +1,3 @@
+[submodule "Inquis"]
+	path = Inquis
+	url = git@github.com:dview-io/Inquis.git
