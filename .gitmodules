@@ -1,3 +1,6 @@
 [submodule "Inquis"]
 	path = Inquis
 	url = git@github.com:dview-io/Inquis.git
+[submodule "openai-finetunex"]
+	path = openai-finetunex
+	url = git@github.com:dview-io/openai-finetunex.git
